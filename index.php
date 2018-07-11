@@ -133,6 +133,7 @@ echo '<hr>';
 
 $finish = microtime(true);
 
+
 $delta = $finish - $start;
 
 echo $delta . ' сек.';
